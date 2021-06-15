@@ -1,0 +1,1 @@
+#Users and favorites API for Giphy App
